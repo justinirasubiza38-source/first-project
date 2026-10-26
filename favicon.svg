@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#080D18"/>
+
+  <!-- Gold border -->
+  <rect x="2" y="2" width="60" height="60" rx="11"
+        fill="none" stroke="#FFC107" stroke-width="2"/>
+
+  <!-- Letter D -->
+  <path d="M12 18 H25
+           C36 18 42 24 42 32
+           C42 40 36 46 25 46
+           H12 Z"
+        fill="#FFC107"/>
+
+  <!-- Inner space of D -->
+  <path d="M18 24 H25
+           C31 24 35 27 35 32
+           C35 37 31 40 25 40
+           H18 Z"
+        fill="#080D18"/>
+
+  <!-- Letter N -->
+  <path d="M35 19 H41 L53 33 L41 47 H35
+           L47 33 Z"
+        fill="#FFFFFF"/>
+
+  <!-- Graduation cap -->
+  <path d="M25 10 L36 5 L48 10 L36 15 Z"
+        fill="#FFC107"/>
+  <path d="M29 13 L36 17 L44 13 L44 16 L36 20 L29 16 Z"
+        fill="#FFC107"/>
+  <path d="M47 10 V17"
+        stroke="#FFC107" stroke-width="1.5"/>
+  <circle cx="47" cy="18" r="1.5" fill="#FFC107"/>
+
+  <!-- Coding symbol -->
+  <path d="M23 29 L19 32 L23 35"
+        fill="none" stroke="#00CFFF"
+        stroke-width="2" stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <path d="M29 29 L26 35"
+        fill="none" stroke="#00CFFF"
+        stroke-width="2" stroke-linecap="round"/>
+
+  <path d="M32 29 L36 32 L32 35"
+        fill="none" stroke="#00CFFF"
+        stroke-width="2" stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Gold orbit -->
+  <path d="M8 42
+           C16 53 40 51 55 32
+           C49 46 32 54 17 51
+           C12 50 9 47 8 42 Z"
+        fill="#FFC107"/>
+</svg>
